@@ -1,5 +1,6 @@
 #! /bin/bash
 
+#stdin
 while read line
 do
   echo "$line"
